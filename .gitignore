@@ -1,0 +1,13 @@
+build/
+build-dist/
+dist/
+.vs/
+out/
+imgui.ini
+*.obj
+*.exe
+*.pdb
+*.ilk
+.commandcode
+.vscode
+
